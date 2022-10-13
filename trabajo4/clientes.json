@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "62df2075eef775ee8e982796"
+  },
+  "rut": "19840531-0",
+  "nombre_usuario": "R_zaio",
+  "metodo_de_pago": [
+    "efectivo",
+    "Visa Debito",
+    "PayPal",
+    "Cuenta rut"
+  ],
+  "carrito": [
+    {
+      "version": "1.25.5a",
+      "mejoras": [
+        "mayor gama de colores"
+      ],
+      "precio": 15000
+    },
+    {
+      "Version": "1.78",
+      "Dimension": "2D",
+      "Precio": 95000
+    },
+    {
+      "Version": "2.0.1",
+      "Dimension": "3D",
+      "Precio": 1900000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62df3f74fcaccfb4e2c5d1f4"
+  },
+  "rut": "10978360-9",
+  "nombre_usuario": "Gzaio",
+  "metodo_de_pago": [
+    "Cuenta rut",
+    "PayPal",
+    "CuentaCorriente",
+    "Visa Debito",
+    "Efectivo"
+  ],
+  "carrito": [
+    {
+      "Version": "2.0.1",
+      "Dimension": "3D",
+      "Precio": 1900000
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62e1d39de23d1f4bfadc4214"
+  },
+  "rut": "11245665-7",
+  "nombre_usuario": "T_diaz",
+  "metodo_de_pago": [
+    "Paypal"
+  ],
+  "carrito": [
+    {
+      "version": "1.25.5a",
+      "mejoras": [
+        "mayor gama de colores"
+      ],
+      "precio": 15000
+    },
+    {
+      "Version": "1.78",
+      "Dimension": "2D",
+      "Precio": 95000
+    }
+  ]
+}]

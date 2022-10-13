@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "62dd5e5e3b9a77aeea2953e2"
+  },
+  "version": "1.25.5a",
+  "mejoras": [
+    "mayor gama de colores"
+  ],
+  "precio": 15000
+},{
+  "_id": {
+    "$oid": "62df632c988d9ddaccf78b94"
+  },
+  "version": "1.58.1b",
+  "mejoras": [
+    "Sistema de mapeo",
+    "Mayor gama de colores",
+    "Codificacion con Software Radeon y NVenc"
+  ],
+  "precio": 35000
+}]

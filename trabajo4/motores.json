@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "62df603f6851659309fffadf"
+  },
+  "Version": "2.0.1",
+  "Dimension": "3D",
+  "Precio": 1900000
+},{
+  "_id": {
+    "$oid": "62e01bd57af3e03d957552f4"
+  },
+  "Version": "1.78",
+  "Dimension": "2D",
+  "Precio": 95000
+},{
+  "_id": {
+    "$oid": "62e1c599433749813fd1135b"
+  },
+  "Version": "3.5.0a",
+  "Dimension": "3D y 2D",
+  "Precio": 2500000
+}]
